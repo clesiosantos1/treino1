@@ -1,0 +1,17 @@
+h1{
+    color: rgb(0, 0, 0);
+}
+
+input{
+    outline: 0px !important;
+}
+.imagem{
+    width: 5em;
+}
+.white{
+    color: rgba(234, 234, 234, 0.727);
+}
+input{
+    transition: 1s;
+    background-color: WHITE;
+}
